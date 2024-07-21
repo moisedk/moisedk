@@ -1,12 +1,11 @@
 # Hi there 👋
 My name is Moise Dete-Kpinssounon, I will graduate in a few months with a bachelor of art in Computer Science and Mathematics
 
-- 🔭 I’m currently working [Fric](https://www.github.com/moisedk/fric)
-- 🌱 I’m currently learning Jetpack Compose, Android App Architecture, and some MAD skills
-- 👯 I’m looking to collaborate on [Fric](https://www.github.com/moisedk/fric)
+- 🔭 I’m currently working on [Fric](https://www.github.com/moisedk/fric)
+- 🌱 Learning **Jetpack Compose, Android App Architecture, and some MAD skills**
+- 👯 I’m looking to collaborate on [Fric](https://www.github.com/moisedk/fric) - Please reach out if you would like to contribute with some design
 - 💬 If we are not collaborating on code, we can chat about History, Geography, Trivia, and the meaning of Life
-- 📫 How to reach me: moisedete@gmail.com
--  ✨
+- 📫 How to reach me: moisedete@gmail.com / 
 
 ## Skills
 
