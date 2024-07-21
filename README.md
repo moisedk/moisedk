@@ -1,5 +1,4 @@
 # Hi there 👋
-![Profile Banner](<img src="https://imgur.com/a/U7CHRle.jpg"/>)
 My name is Moise Dete-Kpinssounon, I will graduate in a few months with a bachelor of art in Computer Science and Mathematics
 
 - 🔭 I’m currently working on [Fric](https://www.github.com/moisedk/fric)
