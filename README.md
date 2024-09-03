@@ -1,5 +1,6 @@
 # Hi there 👋
-[!https://github-readme-stats.vercel.app/api?username=moisedk)](https://github.com/moisedk/github-readme-stats)
+[![Moise's GitHub stats](https://github-readme-stats-moisedks-projects.vercel.app/api?username=moisedk)](https://github.com/moisedk/github-readme-stats)
+    
 - 🔭 I’m currently working on [Fric](https://www.github.com/moisedk/fric)
       
 - 🌱 Learning **Jetpack Compose, Android App Architecture, and some [MAD](https://developer.android.com/series/mad-skills) skills**
