@@ -1,5 +1,5 @@
 # Hi there 👋
-[![My stats](https://github-readme-stats.vercel.app/api?username=moisedk)](https://github.com/anuraghazra/github-readme-stats)
+[!https://github-readme-stats.vercel.app/api?username=moisedk)](https://github.com/moisedk/github-readme-stats)
 - 🔭 I’m currently working on [Fric](https://www.github.com/moisedk/fric)
       
 - 🌱 Learning **Jetpack Compose, Android App Architecture, and some [MAD](https://developer.android.com/series/mad-skills) skills**
@@ -9,7 +9,6 @@
 My name is Moise Dete-Kpinssounon, I will graduate in a few months with a bachelor of art in Computer Science and Mathematics
 
 ## Skills
-
 - **Languages**: Kotlin, Java, Python, C
 - **Frameworks**: Jetpack Compose, Android
 - **Tools**: Git, Android 
